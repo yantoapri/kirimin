@@ -1,0 +1,7 @@
+{
+    "slider":[
+        { "img": "slider1.png", "tag": "info", "title": "Slider 1", "content": "Ini konten slider 1" },
+        { "img": "slider2.png", "tag": "news", "title": "Slider 2", "content": "Ini konten slider 2" },
+        { "img": "slider3.png", "tag": "event", "title": "Slider 3", "content": "Ini konten slider 3" }
+    ]
+}

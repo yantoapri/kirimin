@@ -1,0 +1,63 @@
+{
+    "menu":[
+        {
+            "id":1,
+            "title":"Home",
+            "url":"/",
+            "sub":null
+        },
+        {
+            "id":2,
+            "title":"Blog",
+            "url":"/",
+            "sub":null
+        },
+        {
+            "id":3,
+            "title":"News",
+            "url":"/",
+            "sub":null
+        },
+        {
+            "id":4,
+            "title":"Service",
+            "url":"#",
+            "sub":[
+                {
+                    "id":6,
+                    "title":"Manajemen order",
+                    "description":"Platform management order dengan multi ekspedisi",
+                    "url":"/",
+                    "icon":"database",
+                    "sub":[]
+                },
+                {
+                    "id":7,
+                    "title":"Integrasi Api",
+                    "description":"Platform management order dengan multi ekspedisi",
+                    "url":"/api-integration",
+                    "icon":"circle-nodes",
+                    "sub":[]
+                }
+            ]
+        },
+        {
+            "id":8,
+            "title":"Check Ongkir",
+            "url":"/",
+            "sub":null
+        },
+        {
+            "id":9,
+            "title":"Lacak",
+            "url":"/",
+            "sub":null
+        },
+        {
+            "id":10,
+            "title":"Daftar",
+            "url":"/",
+            "sub":null
+        }
+    ]
+}
